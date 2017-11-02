@@ -1,0 +1,45 @@
+@media (max-width:767px) { 
+	
+	.articel_feature,.articel_listing{
+	min-height: 200px;
+	background-color:#CFE2FB;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	.add{margin-top: 25px;}
+		.articel_listing{
+	min-height: 200px;
+	background-color:#CFE2FB;
+	margin-top: 25px;
+	margin-bottom: 25px;}
+	
+	.hero_call_to_action{
+		min-height: 125px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	background-color: #CFE2FB;
+}
+
+	.articel_feature{
+	width: 100%
+	background-color:#CFE2FB;
+	min-height: 150px;}
+	
+	.side_bar_feature{
+	 background-color:#9FC5F8;
+	min-height: 220px;
+	margin-bottom: 10px;
+	
+}
+@media (min-width: 992px) and (max-width: 1199px) { 
+	
+	
+}
+@media (min-width: 1200px) { 
+
+
+
+}
